@@ -66,7 +66,7 @@ I am a passionate software developer dedicated to building clean, responsive, an
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+  <a href="www.linkedin.com/in/kevin-p-tom" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/kevin-p-tom" />
   </a>
 </p>
