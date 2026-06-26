@@ -8,8 +8,8 @@
 </p>
 
 ---
-
-### 💫 About Me
+# I'm Kevin P Tom
+## 💫About Me
 
 I am a passionate software developer dedicated to building clean, responsive, and user-centric web applications. Currently focused on creating high-performance frontends and scaling backend systems.
 
